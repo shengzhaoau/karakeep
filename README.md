@@ -105,21 +105,3 @@ Karakeep uses Weblate for managing translations. If you want to help translate K
 
 If you're not comfortable with self-hosting, you can use our managed Karakeep cloud at [cloud.karakeep.app](https://cloud.karakeep.app). Cloud subscriptions support the development of Karakeep.
 
-## Support
-
-If you're enjoying using Karakeep, drop a ⭐️ on the repo!
-
-<a href="https://www.buymeacoffee.com/mbassem" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-## Community Channels
-
-- Join us on [Discord](https://discord.gg/NrgeYywsFh).
-- Follow us on Twitter: [@karakeep_app](https://x.com/karakeep_app).
-
-## License
-
-Karakeep is licensed under [AGPL-3.0](https://github.com/karakeep-app/karakeep/blob/main/LICENSE) and owned by [Localhost Labs Ltd](https://localhostlabs.co.uk).
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=karakeep-app/karakeep&type=Date)](https://star-history.com/#karakeep-app/karakeep&Date)
