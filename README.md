@@ -105,3 +105,7 @@ Karakeep uses Weblate for managing translations. If you want to help translate K
 
 If you're not comfortable with self-hosting, you can use our managed Karakeep cloud at [cloud.karakeep.app](https://cloud.karakeep.app). Cloud subscriptions support the development of Karakeep.
 
+
+---
+
+_Last updated: 2026-04-05_
